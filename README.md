@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 </p>
 
-### 🛠 &nbsp;My favorites IDE's :
+### 🦄 &nbsp;My favorites IDE's :
 
 <p>
 //TODO
