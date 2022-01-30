@@ -11,23 +11,34 @@
 I'm <strong>Jesús Hernández Barrios</strong>, and this is my description.
 </p>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cuba, starting (Root 101)[], a small technology services company.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cuba, starting [Root 101](), a small technology services company.
 
 ---
 
-<div>
-  <a href="https://github.com/JesusHdezWaterloo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusHdezWaterloo&count_private=true&theme=cobalt&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHdezWaterloo&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+### 🛠 &nbsp;Languages and Tools :
 
-<p align="left">
-  🦄 <strong>Skills:</strong> Flutter/Dart, ObjectBox, Java, MySQL.
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
+
 </p>
 
-<p align="left">
-  💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, Git, GitKraken.
+### 🛠 &nbsp;My favorites IDE's :
+
+<p>
+//TODO
 </p>
+---
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JesusHdezWaterloo&theme=dark&background=000000)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusHdezWaterloo&count_private=true&theme=cobalt&show_icons=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHdezWaterloo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Contacts:
 - e-mail: jhernandezb96@gmail.com
