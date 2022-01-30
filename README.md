@@ -8,7 +8,7 @@
 
 
 <p align="left"> 
-I'm <strong>Jesús Hernández Barrios</strong>, and this is my description.
+I'm :man: <strong>Jesús Hernández Barrios</strong>, and this is my description.
 </p>
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cuba, starting [Root 101](), a small technology services company.
@@ -34,7 +34,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p>
 //TODO
 </p>
+
 ---
+
 ### 🔥 &nbsp; My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JesusHdezWaterloo&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -44,9 +46,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHdezWaterloo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Contacts:
-- e-mail: jhernandezb96@gmail.com
-- Cell: +53 5 426 8600
-- Location: Habana, Cuba
+- :mailbox_closed: e-mail: jhernandezb96@gmail.com
+- :cell: Cell: +53 5 426 8600
+- :location: Location: Habana, Cuba
 
 
 
