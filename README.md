@@ -7,12 +7,13 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
-
 <p align="left"> 
 I'm <strong>Jesús Hernández Barrios</strong>, and this is my description.
 </p>
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cuba, starting (Root 101)[], a small technology services company.
+
+---
 
 <div>
   <a href="https://github.com/JesusHdezWaterloo">
