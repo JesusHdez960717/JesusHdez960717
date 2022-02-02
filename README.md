@@ -20,35 +20,47 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
-
+<img src="https://raw.githubusercontent.com/objectbox/objectbox-dart/main/.github/logo.png" title="ObjectBox"  alt="ObjectBox" width="120" height="40"/>&nbsp;
 </p>
 
-### 🦄 &nbsp;My favorites IDE's :
+### 🦄 &nbsp;My favorites IDE's / Dev Tools :
 
 <p>
-//TODO
+<img src="https://img.icons8.com/windows/50/000000/netbeans.png" title="NetBeans" alt="NetBeans" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/ios/50/000000/android-studio--v3.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/windows/32/000000/gitkraken.png" title="GitKraken" alt="GitKraken" width="40" height="40"/>&nbsp;
 </p>
 
 ---
 
 ### 🔥 &nbsp; My Stats :
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusHdezWaterloo&count_private=true&theme=merko&show_icons=true"/>
+<a href="https://github-readme-stats.vercel.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesusHdezWaterloo&count_private=true&theme=merko&show_icons=true" />
+</a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JesusHdezWaterloo&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="http://github-readme-streak-stats.herokuapp.com">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JesusHdezWaterloo&theme=dark&background=000000)](https://git.io/streak-stats" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHdezWaterloo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="http://github-readme-streak-stats.herokuapp.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHdezWaterloo&layout=compact&theme=vision-friendly-dark" />
+</a>
 
-Contacts:
-- :mailbox_closed: e-mail: jhernandezb96@gmail.com
-- :iphone: Cell: +53 5 426 8600
-- ::earth_americas: Location: Habana, Cuba
+
+---
+
+### :fax: Contacts:
+- E-Mail :mailbox_closed: : jhernandezb96@gmail.com
+- Cell :iphone: : +53 5 426 8600
+- Location :earth_americas: : Habana, Cuba
 
 
 
