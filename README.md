@@ -8,7 +8,7 @@
 
 
 <p align="left"> 
-I'm :man: <strong>Jesús Hernández Barrios</strong>, and this is my description.
+I'm :technologist: <strong>Jesús Hernández Barrios</strong>, and this is my description.
 </p>
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cuba, starting [Root 101](), a small technology services company.
@@ -39,16 +39,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JesusHdezWaterloo&theme=dark&background=000000)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusHdezWaterloo&count_private=true&theme=merko&show_icons=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusHdezWaterloo&count_private=true&theme=gold&show_icons=true"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JesusHdezWaterloo&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHdezWaterloo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Contacts:
 - :mailbox_closed: e-mail: jhernandezb96@gmail.com
-- :cell: Cell: +53 5 426 8600
-- :location: Location: Habana, Cuba
+- :iphone: Cell: +53 5 426 8600
+- ::earth_americas: Location: Habana, Cuba
 
 
 
