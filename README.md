@@ -20,20 +20,21 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/windows/50/000000/netbeans.png"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </p>
 
-### 🦄 &nbsp;My favorites IDE's :
+### 🦄 &nbsp;My favorites IDE's / Dev Tools :
 
 <p>
-//TODO
+<img src="https://img.icons8.com/windows/50/000000/netbeans.png" title="NetBeans" alt="NetBeans" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/ios/50/000000/android-studio--v3.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/windows/32/000000/gitkraken.png" title="GitKraken" alt="GitKraken" width="40" height="40"/>&nbsp;
 </p>
 
 ---
