@@ -35,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://img.icons8.com/windows/50/000000/netbeans.png" title="NetBeans" alt="NetBeans" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/ios/50/000000/android-studio--v3.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/windows/32/000000/gitkraken.png" title="GitKraken" alt="GitKraken" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/windows/32/000000/gitkraken.png" title="GitKraken" alt="GitKraken" width="120" height="40"/>&nbsp;
 </p>
 
 ---
