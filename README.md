@@ -51,10 +51,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHdezWaterloo&layout=compact&theme=vision-friendly-dark" />
 </a>
 
-Contacts:
+
+---
+
+### :fax: Contacts:
 - :mailbox_closed: e-mail: jhernandezb96@gmail.com
 - :iphone: Cell: +53 5 426 8600
-- ::earth_americas: Location: Habana, Cuba
+- :earth_americas: Location: Habana, Cuba
 
 
 
