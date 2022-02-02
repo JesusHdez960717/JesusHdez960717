@@ -39,7 +39,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🔥 &nbsp; My Stats :
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusHdezWaterloo&count_private=true&theme=merko&show_icons=true"/>
+<a href="https://github-readme-stats.vercel.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesusHdezWaterloo&count_private=true&theme=merko&show_icons=true" />
+</a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JesusHdezWaterloo&theme=dark&background=000000)](https://git.io/streak-stats)
 
