@@ -59,7 +59,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fax: Contacts:
 - E-Mail :mailbox_closed: : jhernandezb96@gmail.com
-- Cell :iphone: : +53 5 426 8600
+- Cell :iphone: : +53 5 426 8660
 - Location :earth_americas: : Habana, Cuba
 
 
