@@ -40,16 +40,22 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+### 🏆 My Trophies :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JesusHdezWaterloo)](https://github.com/JesusHdezWaterloo)
+
+---
+
 ### 🔥 &nbsp; My Stats :
 
 <a href="https://github-readme-stats.vercel.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesusHdezWaterloo&count_private=true&theme=merko&show_icons=true" />
 </a>
-
+<br/>
 <a href="http://github-readme-streak-stats.herokuapp.com">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JesusHdezWaterloo&theme=dark&background=000000)](https://git.io/streak-stats" />
 </a>
-
+<br/>
 <a href="http://github-readme-streak-stats.herokuapp.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHdezWaterloo&layout=compact&theme=vision-friendly-dark" />
 </a>
@@ -62,5 +68,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - Cell :iphone: : +53 5 426 8660
 - Location :earth_americas: : Habana, Cuba
 
+---
 
+### ⌛ Recent Activity :
 
+[![JesusHdezWaterloo's github activity graph](https://activity-graph.herokuapp.com/graph?username=JesusHdezWaterloo&theme=react-dark)](https://github.com/JesusHdezWaterloo)
