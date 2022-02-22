@@ -51,11 +51,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://github-readme-stats.vercel.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesusHdezWaterloo&count_private=true&theme=merko&show_icons=true" />
 </a>
-&nbsp;
+<br/>
 <a href="http://github-readme-streak-stats.herokuapp.com">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JesusHdezWaterloo&theme=dark&background=000000)](https://git.io/streak-stats" />
 </a>
-&nbsp;
+<br/>
 <a href="http://github-readme-streak-stats.herokuapp.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHdezWaterloo&layout=compact&theme=vision-friendly-dark" />
 </a>
