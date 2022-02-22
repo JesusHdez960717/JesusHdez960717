@@ -72,4 +72,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### ⌛ Recent Activity :
 
-[![JesusHdezWaterloo's github activity graph](https://activity-graph.herokuapp.com/graph?username=JesusHdezWaterloo&theme=github)](https://github.com/JesusHdezWaterloo)
+[![JesusHdezWaterloo's github activity graph](https://activity-graph.herokuapp.com/graph?username=JesusHdezWaterloo&theme=react-dark)](https://github.com/JesusHdezWaterloo)
