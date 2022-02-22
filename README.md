@@ -40,6 +40,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+### 🏆 My Trophies :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JesusHdezWaterloo)](https://github.com/JesusHdezWaterloo)
+
+---
+
 ### 🔥 &nbsp; My Stats :
 
 <a href="https://github-readme-stats.vercel.app/">
