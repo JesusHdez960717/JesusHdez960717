@@ -68,5 +68,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - Cell :iphone: : +53 5 426 8660
 - Location :earth_americas: : Habana, Cuba
 
+---
 
+### ⌛ Recent Activity :
 
+[![JesusHdezWaterloo's github activity graph](https://activity-graph.herokuapp.com/graph?username=JesusHdezWaterloo&theme=github)](https://github.com/JesusHdezWaterloo)
