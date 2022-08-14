@@ -49,9 +49,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 &nbsp; My Stats :
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesusHdezWaterloo&count_private=true&theme=merko&show_icons=true" />
+  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=JesusHdezWaterloo&count_private=true&theme=merko&show_icons=true" />
 
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JesusHdezWaterloo&theme=dark&background=000000)](https://git.io/streak-stats" />
+  <img height="160px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JesusHdezWaterloo&theme=dark&background=000000)](https://git.io/streak-stats" />
 </div>
 
 <p align="center">
