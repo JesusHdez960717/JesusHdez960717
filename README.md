@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<p align="center"><img src="https://komarev.com/ghpvc/?username=JesusHdezWaterloo&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=JesusHdez960717&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
@@ -42,20 +42,20 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🏆 My Trophies :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JesusHdezWaterloo)](https://github.com/JesusHdezWaterloo)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JesusHdez960717)](https://github.com/JesusHdez960717)
 
 ---
 
 ### 🔥 &nbsp; My Stats :
 
 <div align="center">
-  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=JesusHdezWaterloo&count_private=true&theme=merko&show_icons=true" />
+  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=JesusHdez960717&count_private=true&theme=merko&show_icons=true" />
 
-  <img height="160px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JesusHdezWaterloo&theme=dark&background=000000)](https://git.io/streak-stats" />
+  <img height="160px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JesusHdez960717&theme=dark&background=000000)](https://git.io/streak-stats" />
 </div>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHdezWaterloo&layout=compact&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHdez960717&layout=compact&theme=vision-friendly-dark" />
 </p>
 
 
@@ -70,4 +70,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### ⌛ Recent Activity :
 
-[![JesusHdezWaterloo's github activity graph](https://activity-graph.herokuapp.com/graph?username=JesusHdezWaterloo&theme=react-dark)](https://github.com/JesusHdezWaterloo)
+[![JesusHdez960717's github activity graph](https://activity-graph.herokuapp.com/graph?username=JesusHdez960717&theme=react-dark)](https://github.com/JesusHdez960717)
