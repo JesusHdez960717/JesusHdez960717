@@ -17,24 +17,47 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🛠 &nbsp;Languages and Tools :
 
+#### :iphone: For frontend:
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android"  alt="Android" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS"  alt="iOS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/wasm/wasm-original.svg" title="Web"  alt="Web" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
+</p>
+
+#### :pager: For backend:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX"  alt="NGINX" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
+</p>
+
+#### :satellite: For general purpose:
+
+<p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/objectbox/objectbox-dart/main/.github/logo.png" title="ObjectBox"  alt="ObjectBox" width="120" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </p>
+
 
 ### 🦄 &nbsp;My favorites IDE's / Dev Tools :
 
 <p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/windows/50/000000/netbeans.png" title="NetBeans" alt="NetBeans" width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/ios/50/000000/android-studio--v3.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/windows/32/000000/gitkraken.png" title="GitKraken" alt="GitKraken" width="40" height="40"/>&nbsp;
 </p>
 
@@ -54,11 +77,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img height="160px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JesusHdez960717&theme=dark&background=000000)](https://git.io/streak-stats" />
 </div>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JesusHdez960717&layout=compact&theme=vision-friendly-dark" />
-</p>
-
-
 ---
 
 ### :fax: Contacts:
@@ -70,4 +88,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### ⌛ Recent Activity :
 
-[![JesusHdez960717's github activity graph](https://activity-graph.herokuapp.com/graph?username=JesusHdez960717&theme=react-dark)](https://github.com/JesusHdez960717)
+![JesusHdez960717's github activity graph](https://activity-graph.herokuapp.com/graph?username=JesusHdez960717&theme=react-dark)
