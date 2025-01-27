@@ -13,8 +13,6 @@ I'm a Frontend and Backend Developer (maybe a Full Stack <img src="https://media
 
 ---
 
-This is a little about me:
-
 ### 🛠 &nbsp;Languages and Tools :
 
 #### :iphone: For frontend:
