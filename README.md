@@ -9,9 +9,11 @@
 I'm :technologist: <strong>Jesús Hernández Barrios</strong>, welcome to my profile.
 </p>
 
-I'm a Frontend and Backend Developer (maybe a Full Stack) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cuba, always looking for the next project or challenge that will help improve my training and performance.
+I'm a Frontend and Backend Developer (maybe a Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">) from Cuba, always looking for the next project or challenge that will help improve my training and performance.
 
 ---
+
+This is a little about me:
 
 ### 🛠 &nbsp;Languages and Tools :
 
