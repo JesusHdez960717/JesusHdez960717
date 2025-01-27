@@ -77,5 +77,5 @@ I'm a Frontend and Backend Developer (maybe a Full Stack <img src="https://media
 
 ### :fax: Contacts:
 - E-Mail :mailbox_closed: : jhernandezb96@gmail.com
-- Cell :iphone: : +53 5 426 8660
-- Location :earth_americas: : Habana, Cuba
+- WhatsApp :iphone: : +53 5 426 8660
+- Location :earth_americas: : Mexico
