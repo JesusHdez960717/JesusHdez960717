@@ -83,5 +83,5 @@ the next project or challenge that will help improve my training and performance
 
 ### :fax: Contacts:
 
-- E-Mail :mailbox_closed: : jhernandezb96@gmail.com=
+- E-Mail :mailbox_closed: : jhernandezb96@gmail.com
 - Location :earth_americas: : Mexico
