@@ -9,7 +9,9 @@
 I'm :technologist: <strong>Jesús Hernández Barrios</strong>, welcome to my profile.
 </p>
 
-I'm a Frontend and Backend Developer (maybe a Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">) from Cuba, always looking for the next project or challenge that will help improve my training and performance.
+I'm a Frontend and Backend Developer (maybe a Full
+Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">), always looking for
+the next project or challenge that will help improve my training and performance.
 
 ---
 
@@ -28,6 +30,7 @@ I'm a Frontend and Backend Developer (maybe a Full Stack <img src="https://media
 </p>
 
 #### :pager: For backend:
+
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -48,7 +51,6 @@ I'm a Frontend and Backend Developer (maybe a Full Stack <img src="https://media
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </p>
 
-
 ### 🦄 &nbsp;My favorites IDE's / Dev Tools :
 
 <p>
@@ -63,9 +65,13 @@ I'm a Frontend and Backend Developer (maybe a Full Stack <img src="https://media
 
 ### 🏆 My Trophies :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JesusHdez960717)](https://github.com/JesusHdez960717)
+[![trophy](https://github-profile-trophy-orcin-eta.vercel.app/?username=JesusHdez960717)](https://github.com/JesusHdez960717)
 
 ---
+
+### 🏆 My Stats :
+
+[![stats](https://github-readme-streak-stats.herokuapp.com/?user=JesusHdez960717)](https://github.com/JesusHdez960717)
 
 ### 🔥 &nbsp; My Stats :
 
@@ -76,6 +82,6 @@ I'm a Frontend and Backend Developer (maybe a Full Stack <img src="https://media
 ---
 
 ### :fax: Contacts:
-- E-Mail :mailbox_closed: : jhernandezb96@gmail.com
-- WhatsApp :iphone: : +53 5 426 8660
+
+- E-Mail :mailbox_closed: : jhernandezb96@gmail.com=
 - Location :earth_americas: : Mexico
